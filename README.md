@@ -3,3 +3,6 @@
 apz is an integer library with basic operations interface provided
 
 
+## LICENSE
+
+GPLv3
